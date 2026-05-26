@@ -23,8 +23,6 @@ I am transitioning from academic to the industry, seeking opportunities to apply
 
 ---
 
-### 📊 Stats
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=marcelloshibata&theme=kanagawa-paper)](https://git.io/streak-stats)
 
 <!--
