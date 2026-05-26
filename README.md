@@ -23,6 +23,10 @@ I am transitioning from academic to the industry, seeking opportunities to apply
 
 ---
 
+### 📊 Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=marcelloshibata&theme=kanagawa-paper)](https://git.io/streak-stats)
+
 <!--
 **marcelloshibata/marcelloshibata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
