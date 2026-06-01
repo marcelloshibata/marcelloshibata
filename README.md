@@ -25,6 +25,10 @@ I am transitioning from academic to the industry, seeking opportunities to apply
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=marcelloshibata&theme=kanagawa-paper)](https://git.io/streak-stats)
 
+---
+
+<img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marcelloshibata&layout=compact&langs_count=7&theme=dracula"/>
+
 <!--
 **marcelloshibata/marcelloshibata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
