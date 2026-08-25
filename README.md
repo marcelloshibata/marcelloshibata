@@ -9,9 +9,13 @@ I am transitioning from academic to the industry, seeking opportunities to apply
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages & Databases**
+**Languages**
 
-[![Languages](https://skillicons.dev/icons?i=c,py,cpp,java,spring,nodejs,mysql,postgresql)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=c,py,cpp,java,spring,nodejs)](https://skillicons.dev)
+
+**Databases**
+
+[![Databases](https://skillicons.dev/icons?i=mysql,postgresql,)](https://skillicons.dev)
 
 **Front-end**
 
@@ -20,10 +24,6 @@ I am transitioning from academic to the industry, seeking opportunities to apply
 **Design & Tools**
 
 [![Tools](https://skillicons.dev/icons?i=vscode,pycharm,idea,figma,git,github,postman,linux,arch,)](https://skillicons.dev)
-
----
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=marcelloshibata&theme=kanagawa-paper)](https://git.io/streak-stats)
 
 ---
 
