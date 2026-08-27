@@ -1,9 +1,8 @@
 # Hi, I'm Marcello 👋
 
-I'm a developer passionate about **Data Science, Machine Learning, and Backend**. Currently studying Cross-Platform Software Development at FATEC Registro, my main focus is on building data-driven solutions and machine learning models that solve complex real-world problems.
+I'm a developer passionate about **Data Science, Machine Learning, and Backend**. Currently studying Cross-Platform Software Development at FATEC Registro, where my learning focus to create and maintain software products that solve real world problems.
 
-I am transitioning from academia to the industry, seeking opportunities to apply my strong quantitative background, data analysis skills, and practical experience in machine learning and MLOps to projects that drive business impact.
-
+I am transitioning from academic to the industry, seeking opportunities to apply my strong quantitative background and practical experience to projects that drive business impact.
 ---
 
 ### 🛠️ Tech Stack & Tools
