@@ -1,4 +1,4 @@
-# Hi, I'm Marcello 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73333&center=true&width=435&lines=Hi!+I'm+Marcello%2C+nice+to+meet+you.;%E3%82%88%EF%BC%81%E7%A7%81%E3%81%AF%E6%9F%B4%E7%94%B0%E3%81%A7%E3%81%99%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%E3%81%8A%E9%A1%98%E3%81%84%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99%E3%80%82;Ol%C3%A1!+Eu+sou+o+Marcello%2C+prazer." alt="Typing SVG" /></a>
 
 I'm a developer passionate about **Data Science, Machine Learning, and Backend**. Currently studying Cross-Platform Software Development at FATEC Registro, where my learning focus to create and maintain software products that solve real world problems.
 
