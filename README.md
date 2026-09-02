@@ -40,6 +40,6 @@ I am transitioning from academic to the industry, seeking opportunities to apply
 
 ---
 
-<img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marcelloshibata&layout=compact&langs_count=10&theme=dracula&hide=html,css"/>
+<img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marcelloshibata&layout=compact&langs_count=10&theme=dracula&hide=html,css,javascript"/>
 
 ---
