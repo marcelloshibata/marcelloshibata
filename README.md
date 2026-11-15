@@ -1,4 +1,3 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73333&center=true&width=435&lines=Hi!+I'm+Marcello%2C+nice+to+meet+you.;%E3%82%88%EF%BC%81%E7%A7%81%E3%81%AF%E6%9F%B4%E7%94%B0%E3%81%A7%E3%81%99%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%E3%81%8A%E9%A1%98%E3%81%84%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99%E3%80%82;Ol%C3%A1!+Eu+sou+o+Marcello%2C+prazer." alt="Typing SVG" /></a>
 
 I'm a developer passionate about **Data Science, Machine Learning, and Backend**. Currently studying Cross-Platform Software Development at FATEC Registro, where my learning focus to create and maintain software products that solve real world problems.
 
@@ -29,21 +28,6 @@ I am transitioning from academic to the industry, seeking opportunities to apply
 
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Front-end**
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Developer Tools & Environment**
-
-![PyCharm](https://img.shields.io/badge/pycharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Spyder IDE](https://img.shields.io/badge/spyder_ide-%238C0000.svg?style=for-the-badge&logo=spyderide&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
