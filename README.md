@@ -1,19 +1,22 @@
 
-I'm a developer passionate about **Data Science, Machine Learning, and Backend**. Currently studying Cross-Platform Software Development at FATEC Registro, where my learning focus to create and maintain software products that solve real world problems.
+I'm a developer passionate about **Data Science, AI: Deep Learning and Machine Learning, and Backend**. Currently studying Cross-Platform Software Development at FATEC Registro, where my learning focus to create and maintain software products that solve real world problems.
 
 I am transitioning from academic to the industry, seeking opportunities to apply my strong quantitative background and practical experience to projects that drive business impact.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Stack
 
-**Machine Learning & Data Science**
+**AI & Data Science**
 
 [![Data Science & ML](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
 
 **Languages & Backend**
 
@@ -24,10 +27,12 @@ I am transitioning from academic to the industry, seeking opportunities to apply
 ![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
+
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
