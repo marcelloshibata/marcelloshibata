@@ -1,5 +1,5 @@
 
-I'm a developer passionate about **Data Science, AI: Deep Learning and Machine Learning, and Backend**. Currently studying Cross-Platform Software Development at FATEC Registro, where my learning focus to create and maintain software products that solve real world problems.
+I'm a developer passionate about **Data Science, AI: Deep Learning and Machine Learning, and Backend**. Currently studying Software Development at FATEC Registro, where my learning focus to create and maintain software products that solve real world problems.
 
 I am transitioning from academic to the industry, seeking opportunities to apply my strong quantitative background and practical experience to projects that drive business impact.
 
